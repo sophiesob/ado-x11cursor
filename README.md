@@ -22,4 +22,4 @@ Log out and log back in for the cursor to appear.
 Add the following line to hyprland.conf:
 ```
 env = WLR_NO_HARDWARE_CURSORS,1
-``
+```
